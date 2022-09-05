@@ -15,8 +15,20 @@ Sávio Cunha de Carvalho | 180130889
 ## Sobre 
 Para essa entrega, decidimos resolver exercicios competitivos utilizando os conhecimentos adquiridos em sala envolvendo Programação Dinâmica. 
 
+
+
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Screenshots com o enuciado do problema.
+
+<table>
+    <tr>
+        <td><img src="/img1.png" width="250"></td>
+        <td><img src="/img2.png" width="250"></td>
+        <td><img src="/img3.png" width="250"></td>
+         <td><img src="/img4.png" width="250"></td>
+    </tr>
+</table>
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
