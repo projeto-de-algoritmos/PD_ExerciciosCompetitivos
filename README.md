@@ -23,10 +23,10 @@ Screenshots com o enuciado do problema.
 
 <table>
     <tr>
-        <td><img src="/img1.png" width="250"></td>
-        <td><img src="/img2.png" width="250"></td>
-        <td><img src="/img3.png" width="250"></td>
-         <td><img src="/img4.png" width="250"></td>
+        <td><img src="/Imagem/img1.png" width="250"></td>
+        <td><img src="/Imagem/img2.png" width="250"></td>
+        <td><img src="/Imagem/img3.png" width="250"></td>
+        <td><img src="/Imagem/img4.png" width="250"></td>
     </tr>
 </table>
 
