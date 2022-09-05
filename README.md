@@ -13,7 +13,7 @@ Luan Vasco Cavalcante | 190111836
 Sávio Cunha de Carvalho | 180130889
 
 ## Sobre 
-Para essa entrega, decidimos resolver fazer exercicios competitivos utilizando os conhecimentos adquiridos em sala envolvendo Programação Dinâmica. 
+Para essa entrega, decidimos resolver exercicios competitivos utilizando os conhecimentos adquiridos em sala envolvendo Programação Dinâmica. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
