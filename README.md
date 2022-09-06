@@ -39,16 +39,25 @@ Screenshots com o Resultado do problema após a submissão para avalação.
   
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C<br>
+**Framework**: -<br>
+O pré-requisito para rodar o programa é ter um compilador de C/C++ instalado.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para compilar o código rode :
+        
+        gcc -o knapsack knapsack.c 
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+Para executar o código com alguns casos de teste rode : 
+        
+        ./knapsack < teste1
+        ./knapsack < teste2
+        ./knapsack < teste3
+        ./knapsack < teste4
+        ./knapsack < teste5
+        
+## Outros
+Sistema operacional : Linux.
 
 
 
