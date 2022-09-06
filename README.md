@@ -32,10 +32,8 @@ Screenshots com o enuciado do problema.
 
 Screenshots com o Resultado do problema após a submissão para avalação.
 
-<table>  <tr>
-<td><img src="/Imagem/Resultado.jpg" width="400"></td>
-    </tr>
-</table>
+
+![](/Imagem/Resultado.jpg)
   
 
 ## Instalação 
