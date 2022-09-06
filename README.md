@@ -30,6 +30,10 @@ Screenshots com o enuciado do problema.
     </tr>
 </table>
 
+Screenshots com o Resulado do problema após a submissão para avalação.
+
+<td><img src="/Imagem/Resulado.png" width="400"></td>
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
