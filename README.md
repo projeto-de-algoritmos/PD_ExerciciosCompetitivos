@@ -47,11 +47,11 @@ Para compilar o código rode :
 
 Para executar o código com alguns casos de teste rode : 
         
+        ./knapsack < teste_prof
         ./knapsack < teste1
         ./knapsack < teste2
         ./knapsack < teste3
         ./knapsack < teste4
-        ./knapsack < teste5
         
 ## Outros
 Sistema operacional : Linux.
