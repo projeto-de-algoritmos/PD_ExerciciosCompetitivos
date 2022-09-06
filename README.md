@@ -21,14 +21,13 @@ Para essa entrega, decidimos resolver exercicios competitivos utilizando os conh
 ## Screenshots
 Screenshots com o enuciado do problema.
 
-<table>  <tr>
-        <td><img src="/Imagem/img1.png" width="250"></td>
-        <td><img src="/Imagem/img2.png" width="250"></td>
-        <td><img src="/Imagem/img3.png" width="250"></td>
-        <td><img src="/Imagem/img4.png" width="250"></td>
-    </tr>
-</table>
+![](/Imagem/img1.png)
+![](/Imagem/img2.png)
+![](/Imagem/img3.png)
+![](/Imagem/img4.png)
   
+       
+   
 
 Screenshots com o Resultado do problema após a submissão para avalação.
 
