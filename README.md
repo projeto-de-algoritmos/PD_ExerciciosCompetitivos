@@ -1,5 +1,5 @@
 
-# TD_ExerciciosCompetitivos
+# PD_ExerciciosCompetitivos
 
 
 **Conteúdo da Disciplina**: Programação Dinâmica <br>
