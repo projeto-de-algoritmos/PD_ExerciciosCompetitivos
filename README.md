@@ -30,10 +30,10 @@ Screenshots com o enuciado do problema.
 </table>
   
 
-Screenshots com o Resulado do problema após a submissão para avalação.
+Screenshots com o Resultado do problema após a submissão para avalação.
 
 <table>  <tr>
-<td><img src="/Imagem/Resultado.png" width="400"></td>
+<td><img src="/Imagem/Resultado.jpg" width="400"></td>
     </tr>
 </table>
   
