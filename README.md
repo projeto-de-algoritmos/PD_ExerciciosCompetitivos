@@ -21,18 +21,22 @@ Para essa entrega, decidimos resolver exercicios competitivos utilizando os conh
 ## Screenshots
 Screenshots com o enuciado do problema.
 
-<table>
-    <tr>
+<table>  <tr>
         <td><img src="/Imagem/img1.png" width="250"></td>
         <td><img src="/Imagem/img2.png" width="250"></td>
         <td><img src="/Imagem/img3.png" width="250"></td>
         <td><img src="/Imagem/img4.png" width="250"></td>
     </tr>
 </table>
+  
 
 Screenshots com o Resulado do problema após a submissão para avalação.
 
+<table>  <tr>
 <td><img src="/Imagem/Resulado.png" width="400"></td>
+    </tr>
+</table>
+  
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
