@@ -33,7 +33,7 @@ Screenshots com o enuciado do problema.
 Screenshots com o Resulado do problema após a submissão para avalação.
 
 <table>  <tr>
-<td><img src="/Imagem/Resulado.png" width="400"></td>
+<td><img src="/Imagem/Resultado.png" width="400"></td>
     </tr>
 </table>
   
