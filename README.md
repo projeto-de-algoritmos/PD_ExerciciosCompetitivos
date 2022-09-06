@@ -29,7 +29,7 @@ Screenshots com o enuciado do problema.
        
    
 
-Screenshots com o Resultado do problema após a submissão para avalação.
+Screenshots com o Resultado do problema após a submissão para avaliação.
 
 
 ![](/Imagem/Resultado.jpg)
